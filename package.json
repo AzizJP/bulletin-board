@@ -1,6 +1,7 @@
 {
   "name": "bulletin-board",
   "version": "0.1.0",
+  "homepage": "https://azizjp.github.io/bulletin-board/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
